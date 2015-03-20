@@ -1,6 +1,6 @@
 A simple snake game.
 
 Level 1 - Blank Space
-Level 2 - Don't Hit the Walls!
-Level 3 - Barriers!
-Level 4 - Even More Barriers
+\nLevel 2 - Don't Hit the Walls!
+\nLevel 3 - Barriers!
+\nLevel 4 - Even More Barriers
