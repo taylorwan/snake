@@ -1,6 +1,10 @@
-A simple snake game.
+A simple snake game written in Java. 
+Main is located in SnackinSnakes.java
 
 Level 1 - Blank Space
-\nLevel 2 - Don't Hit the Walls!
-\nLevel 3 - Barriers!
-\nLevel 4 - Even More Barriers
+
+Level 2 - Don't Hit the Walls!
+
+Level 3 - Barriers!
+
+Level 4 - Even More Barriers
